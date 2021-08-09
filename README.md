@@ -14,7 +14,7 @@
 5.Each question has a correct answer.
 6.This app has a spin wheel and by rotating the spin wheel user can earn coins.
 7.This app has a rank features that show the rank of all user.
- ### Some ScreenShot are here :
-    <pre>
-    
+ <b> <h3>Some ScreenShot are here : </h3></b>
+ 
+   <pre>
  
